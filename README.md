@@ -8,7 +8,7 @@ This repository will contain the official implementation for the paper:
 
 *Authors: Jin Li, Man-Wai Mak, Johan Rohdin, Oldřich Plchot, Kong Aik Lee, Bo Wen, Yunfeng Liu*
 
-*Accepted by Proc. ICASSP, 2026*
+*Accepted by Proc. Interspeech, 2026*
 
 ## 📅 Release Plan
 We are currently finalizing the code cleanup and documentation.
